@@ -1,0 +1,16 @@
+.parent{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:50px;
+    margin-left: 400px;
+    width: 600px;
+    height: 500px;
+}
+input{
+    border: 2px solid black;
+    height: 30px;
+    width: 300px;
+}
